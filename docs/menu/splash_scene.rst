@@ -3,4 +3,4 @@
 Splash Scene
 ============
 
-T
+In my pong game in the spalsh scene I put the name of my game and my name MARIAM HEMDAN

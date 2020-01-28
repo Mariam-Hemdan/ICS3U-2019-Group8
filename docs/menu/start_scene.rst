@@ -3,4 +3,4 @@
 Start Scene
 ===========
 
-X
+the start of my game is the MT GAME STUDIO scene

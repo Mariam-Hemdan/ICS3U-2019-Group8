@@ -142,3 +142,4 @@ You might also want:
   image_bank/index
   game/index
   menu/index
+  images/index
